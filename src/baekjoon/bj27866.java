@@ -14,3 +14,6 @@ public class bj27866 {
         System.out.println(s[n-1]);
     }
 }
+
+
+
